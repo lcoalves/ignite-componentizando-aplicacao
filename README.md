@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Desafio 02 Ignite Componentizando a aplicação" title="Desafio 02 Ignite Componentizando a aplicação" src=".github/gostack-react.png" width="200px" />
+  <img alt="Desafio 02 Ignite Componentizando a aplicação" title="Desafio 02 Ignite Componentizando a aplicação" src=".github/ignite.png" width="200px" />
 </h1>
 
 <h3 align="center">
