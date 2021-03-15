@@ -8,7 +8,7 @@
   Acima foi componentizado a aplicação Watch me.
 </h3>
 
-<p align="center">Challenge: <a href="https://www.notion.so/Desafio-02-Trabalhando-com-middlewares-4f89bf538c2e4ee291382b92bdc36790">click here</a></p>
+<p align="center">Challenge: <a href="https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1">click here</a></p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lcoalves/ignite-componentizando-aplicacao?color=%2304D361">
